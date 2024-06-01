@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B0FFA094-4810-B2A6-279D-4D9A6B208521}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ClickerHeroes",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
